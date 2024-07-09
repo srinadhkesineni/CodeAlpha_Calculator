@@ -1,2 +1,2 @@
-# CodeAlpha_music
+# CodeAlpha_calculator
 
